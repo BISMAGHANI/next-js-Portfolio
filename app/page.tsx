@@ -1,8 +1,8 @@
 "use client"
 
-import Image from "next/image";
+// import Image from "next/image";
 import Hero from "./components/Hero";
-import Nevbar from "./components/Nevbar";
+// import Nevbar from "./components/Nevbar";
 import Project from "./components/Project";
 import Skills from "./components/Skills";
 import Contact from "./components/Contact";
